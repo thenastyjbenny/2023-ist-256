@@ -1,14 +1,14 @@
 # Josiah Rodriguez
 
-This is a read me file.
+A final project for the IST 256 class.
 
-## A little bit about me.
+## Online store for a fictional company called NextGen.
 
-* some details
-* some notes
-* some fun facts
+* Uses Bootstrap, HTML, and CSS
+* Has Onclick and Onhover Implementation
+* Built from scratch
 
 ## links
 https://thenastyjbenny.github.io/2023-ist-256/
 
-# An image
+
